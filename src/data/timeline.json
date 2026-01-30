@@ -39,18 +39,5 @@
         "url": "https://www.cbc.ca/news/business/canada-computers-data-breach-website-9.7067138"
       }
     ]
-  },
-  {
-    "id": "Trump-cyber-ChatGPT",
-    "title": "President Trump's acting head of CISA uploads documents to ChatGPT",
-    "description": "The interim director of the US Cybersecurity and Infrastructure Security Agency, Madhu Gottumukkala, uploaded government documents to a public version of ChatGPT. These documents were marked “for official use only”, and not authorized for public disclosure. CISA flagged the uploads in August of 2025, and conducted an internal review to assess potential impacts. Officials claim that despite the availability of DHS's DHSChat, Gottumukkala strongarmed CISA into giving him access to ChatGPT.",
-    "date": "2026-01-27",
-    "sources": [
-      {
-        "site": "Politico",
-        "title": "Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT",
-        "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361"
-      }
-    ]
-  },
+  }
 ]
