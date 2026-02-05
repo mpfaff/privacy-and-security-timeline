@@ -1,0 +1,18 @@
+:root {
+  /* Colors */
+  --color-border: #111;
+  --color-bg: #fff;
+  --color-text: #111;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+
+  /* Radius */
+  --radius: 8px;
+
+  /* Widths */
+  --timeline-width: 500px;
+}

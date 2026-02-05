@@ -1,0 +1,34 @@
+.timeline {
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.timeline-wrapper {
+  --padding: 4em;
+  --line-width: 2px;
+  --event-width: 500px;
+  --event-timeline-offset: calc((var(--padding)) + 2px);
+  --event-timeline-center: calc(var(--event-width) + (var(--event-timeline-offset)) + var(--line-width));
+
+  position: relative;
+  margin: 0 var(--padding);
+}
+
+.timeline-events {
+  display: inline-flex;
+  flex-direction: column;
+
+  padding: 0;
+  /* padding-right: var(--padding); */
+
+  /* border-right: var(--line-width) solid black; */
+}
+
+.timeline-line {
+  position: absolute;
+  width: var(--line-width);
+  height: 100%;
+  background: black;
+  left: calc(var(--event-timeline-center));
+}

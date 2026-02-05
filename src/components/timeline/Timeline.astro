@@ -1,0 +1,25 @@
+---
+import TimelineEvent from './TimelineEvent.astro';
+import TimelineLabel from './TimelineLabel.astro';
+import styles from './timeline.module.css';
+
+import { parseDate } from '../../dates';
+
+const { events } = Astro.props;
+
+const first = parseDate(events[0].date);
+const last = parseDate(events.at(-1).date);
+---
+
+<div class={styles.timeline}>
+  <TimelineLabel date={first} />
+  <div class={styles['timeline-wrapper']}>
+    <div class={styles['timeline-line']}></div>
+    <ol class={styles['timeline-events']}>
+      {events.map((event) => (
+        <TimelineEvent event={event} />
+      ))}
+    </ol>
+  </div>
+  <TimelineLabel date={last} />
+</div>

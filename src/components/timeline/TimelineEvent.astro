@@ -1,0 +1,23 @@
+---
+const { event } = Astro.props;
+import styles from './event.module.css';
+---
+<li class={styles.event}>
+  <div class={styles["event-wrapper"]}>
+    <h2 id={event.id}>{event.title}</h2>
+    <div>{event.date}</div>
+
+    <p>{event.description}</p>
+
+    <h3>Sources</h3>
+
+    <ul class={styles.sources}>
+      {event.sources.map((source) => (
+        <li>
+          <a href={source.url}>{source.title}</a>,
+          <span class={styles["source-site"]}>{source.site}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</li>

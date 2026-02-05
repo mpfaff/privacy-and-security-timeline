@@ -1,0 +1,9 @@
+---
+import { getNameOfMonth } from '../../dates';
+import styles from './label.module.css';
+
+const { date } = Astro.props;
+---
+<div class={styles["end-label"]}>
+  {getNameOfMonth(date.month)} {date.year}
+</div>

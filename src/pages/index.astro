@@ -1,32 +1,29 @@
 ---
 import timeline from '../data/timeline.json';
-import Timeline from '../components/Timeline.astro';
+import Timeline from '../components/timeline/Timeline.astro';
 
-timeline.sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title))
+import '../styles/base.css';
+import '../styles/tokens.css';
+
+timeline.sort(
+  (a, b) =>
+    a.date.localeCompare(b.date) ||
+    a.title.localeCompare(b.title)
+);
 ---
 
 <html lang="en">
-	<head>
+  <head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Timeline of Privacy and Security</title>
+    <title>Timeline of Privacy and Security</title>
+  </head>
+  <body>
+      <h1>Timeline of Privacy and Security</h1>
 
-		<style>
-			:root {
-				font-family: sans-serif;
-			}
-
-			* {
-				box-sizing: border-box;
-			}
-		</style>
-	</head>
-	<body>
-		<h1>Timeline of Privacy and Security</h1>
-
-		<Timeline events={timeline} />
-	</body>
+      <Timeline events={timeline} />
+  </body>
 </html>
