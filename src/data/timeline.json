@@ -52,5 +52,28 @@
         "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361"
       }
     ]
+  }, 
+  {
+    "id": "windscribe-dutch-server-takeover",
+    "title": "Dutch Authorities Seize VPN Server Without Warrant",
+    "description": "Windscribe, a Canadian VPN provider, had one of its servers seized by Dutch authorities, with the promise to return it once they \"fully analyze it.\" Windscribe has a no-logs policy and claims the server taken was using RAM disks, so no private user data should be found.",
+    "date" : "2026-02-05",
+    "sources": [
+      {
+        "site": "X",
+        "title": "X post from Windscribe about the incident",
+        "url": "https://x.com/windscribecom/status/2019529769008685438"
+      },
+      {
+        "site": "Tom's Hardware",
+        "title": "Dutch authorities allegedly seize VPN server without a warrant — company claims that law enforcement will return it after analyzing the device fully",
+        "url": "https://www.tomshardware.com/software/vpn/dutch-authorities-allegedly-seize-vpn-server-without-a-warrant-company-claims-that-law-enforcement-will-return-it-after-analyzing-the-device-fully"
+      },
+      {
+        "site": "Windscribe",
+        "title": "My Big Fat Greek Case (A court case in Greece proving the no-logs policy)",
+        "url": "https://windscribe.com/blog/windscribe-greek-court-case/"
+      }
+    ]
   }
 ]
