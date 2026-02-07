@@ -55,8 +55,8 @@
   }, 
   {
     "id": "windscribe-dutch-server-takeover",
-    "title": "Dutch authorities seize VPN server without warrant",
-    "description": "Windscribe, a canadian VPN provider, had one of it's servers seized by Dutch autorities, with the promise to return it once they \"fully analyze it.\" Windscribe has a no-logs policy and claims the server taken was using RAM disks, so little to no data should be found.",
+    "title": "Dutch Authorities Seize VPN Server Without Warrant",
+    "description": "Windscribe, a Canadian VPN provider, had one of its servers seized by Dutch authorities, with the promise to return it once they \"fully analyze it.\" Windscribe has a no-logs policy and claims the server taken was using RAM disks, so no private user data should be found.",
     "date" : "2026-02-05",
     "sources": [
       {
