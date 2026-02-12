@@ -75,5 +75,18 @@
         "url": "https://windscribe.com/blog/windscribe-greek-court-case/"
       }
     ]
+  },
+  {
+    "id": "critical-notepad-vulnerability",
+    "title": "Critical Notepad vulnerability due to Microsoft’s forced AI features",
+    "description": "The Windows 11 Notepad app, recently upgraded with AI features, now carries a high-severity flaw that exposes users to dangerous attacks. Hackers can trick Windows users into clicking a malicious link inside a Markdown file, a text-based document, opened by default by the Notepad app on most Windows systems. This would then cause Notepad to launch unverified protocols that load and execute remote files/code with the same permissions as the user. The flaw, labeled CVE-2026-20841, has a severity rating of 8.8 out of 10.",
+    "date": "2026-02-11",
+    "sources": [
+      {
+        "site": "Cybernews",
+        "title": "Critical Notepad vulnerability reignites criticism of Microsoft’s forced AI features",
+        "url": "https://cybernews.com/security/windows-notepad-vulnerable-to-remote-attacks-feature-creep-blamed/"
+      }
+    ]
   }
 ]
