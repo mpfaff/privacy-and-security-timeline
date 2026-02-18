@@ -16,13 +16,14 @@ timeline.sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.
 
 		<style>
 			:root {
+				--background-color: #f8fafc;
+				--card-color: #ffffff;
+				--primary-color: #2563eb;
+				--line-color: #cbd5e1;
+				--text-color: #0f172a;
+				--muted-color: #64748b;
+
 				font-family: sans-serif;
-				--bg: #f8fafc;        /* very light gray/blue */
-				--card: #ffffff;     /* white */
-				--primary: #2563eb;  /* blue */
-				--line: #cbd5e1;     /* light gray */
-				--text: #0f172a;     /* dark navy */
-				--muted: #64748b;    /* gray */
 			}
 
 			* {
@@ -30,8 +31,8 @@ timeline.sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.
 			}
 
 			body {
-				background: var(--bg);
-  			color: var(--text);
+				background: var(--background-color);
+				color: var(--text-color);
 			}
 		</style>
 	</head>
