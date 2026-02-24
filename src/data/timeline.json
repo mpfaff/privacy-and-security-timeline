@@ -77,5 +77,45 @@
         "url": "https://windscribe.com/blog/windscribe-greek-court-case/"
       }
     ]
-  }
+  },
+  {
+    "id": "discord-adds-age-verification",
+    "title": "Discord Rolling Out Age Verification",
+    "description": "Discord adds age verification, where age-appropiate spaces are now restricted unless a user is verified as an adult. Age verification can be done by \"video selfies\" and Discord claims that all processing and age-estimation is done on-client and never leaves a user's device.",
+    "date": "2026-02-09",
+    "sources": [
+      {
+        "site": "Discord",
+        "title": "Discord Launches Teen Default Experience Globally",
+        "url": "https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally"
+      }
+    ]
+  },
+  {
+    "id": "discord-persona-test",
+    "title": "Discord Collaboreating with Persona",
+    "description": "Discord reveals that they lied about age-verification processing information never leaving a user's device and revealed that they are supplying data to an age-verification center named Persona. They quickly retracted the warning shortly after releasing it on their website.",
+    "date": "2026-02-15",
+    "sources": [
+      {
+        "site": "Ars Technica",
+        "title": "Fury over Discord’s age checks explodes after shady Persona test in UK",
+        "url": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/"
+      }
+    ]
+  },
+  {
+    "id": "discord-cut-ties-with-persona",
+    "title": "Discord Cuts Ties with Persona",
+    "description": "Persona is found to have front-end code accessible on the internet and on government servers. Around 2500 files were found to have been accessible for the governments, and apparently, persona performed facial recognition checks against watchlists and lists of people of power. Discord has since announced that it is cutting ties with Persona.",
+    "date": "2026-02-24",
+    "sources": [
+      {
+        "site": "Fortune",
+        "title": "Discord cuts ties with Peter Thiel–backed verification software after its code was found tied to U.S. surveillance efforts",
+        "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
+      }
+    ]
+  },
+  
 ]
