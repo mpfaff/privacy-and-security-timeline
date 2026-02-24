@@ -52,12 +52,12 @@
         "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361"
       }
     ]
-  }, 
+  },
   {
     "id": "windscribe-dutch-server-takeover",
     "title": "Dutch Authorities Seize VPN Server Without Warrant",
     "description": "Windscribe, a Canadian VPN provider, had one of its servers seized by Dutch authorities, with the promise to return it once they \"fully analyze it.\" Windscribe has a no-logs policy and claims the server taken was using RAM disks, so no private user data should be found.",
-    "date" : "2026-02-05",
+    "date": "2026-02-05",
     "sources": [
       {
         "site": "X",
