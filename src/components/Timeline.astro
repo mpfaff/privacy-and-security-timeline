@@ -113,6 +113,18 @@ const lastEventDate = parseDate(events[events.length - 1].date);
         <ul class="sources">{event.sources.map((source) =>
           <li><a href={source.url}>{source.title}</a>, <span class="source-site">{source.site}</span></li>)
         }</ul>
+        {
+          // This part only shows up if there are "furtherReading" availible
+          // Any "furtherReading" object is structurally identical to a "source"
+          event.furtherReading && event.furtherReading.length !== 0 && (
+            <>
+              <h3>Further Reading</h3>
+              <ul class="sources">{event.furtherReading.map((furtherRead) =>
+                <li><a href={furtherRead.url}>{furtherRead.title}</a>, <span class="source-site">{furtherRead.site}</span></li>)
+              }</ul>
+            </>
+          )
+        }
       </div>
     </li>)}<ol>
   </div>
