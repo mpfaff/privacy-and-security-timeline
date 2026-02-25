@@ -81,13 +81,25 @@
   {
     "id": "discord-adds-age-verification",
     "title": "Discord Rolling Out Age Verification",
-    "description": "Discord adds age verification, where age-appropiate spaces are now restricted unless a user is verified as an adult. Age verification can be done by \"video selfies\" and Discord claims that all processing and age-estimation is done on-client and never leaves a user's device.",
+    "description": "Discord adds age verification, where certain and spaces features are now restricted unless a user is verified as an adult. Age verification can be done by \"video selfies\" and Discord claims that all processing and age-estimation is done locally and never leaves a user's device.",
     "date": "2026-02-09",
     "sources": [
       {
         "site": "Discord",
         "title": "Discord Launches Teen Default Experience Globally",
         "url": "https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally"
+      }
+    ],
+    "furtherReading": [
+      {
+        "site": "Electronic Frontier Foundation",
+        "title": "Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach",
+        "url": "https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach"
+      },
+      {
+        "site": "BBC",
+        "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
+        "url": "https://www.bbc.com/news/articles/cn4g8ynpwl8o"
       }
     ]
   },
@@ -107,7 +119,7 @@
   {
     "id": "discord-persona-test",
     "title": "Discord Collaboreating with Persona",
-    "description": "Discord reveals that they lied about age-verification processing information never leaving a user's device and revealed that they are supplying data to an age-verification center named Persona. They quickly retracted the warning shortly after releasing it on their website.",
+    "description": "Discord reveals that they lied about age-verification processing information never leaving a user's device and revealed that they are supplying data to an age-verification service-provider named Persona. They quickly retracted the warning shortly after releasing it on their website.",
     "date": "2026-02-15",
     "sources": [
       {
@@ -127,6 +139,13 @@
         "site": "Fortune",
         "title": "Discord cuts ties with Peter Thiel–backed verification software after its code was found tied to U.S. surveillance efforts",
         "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
+      }
+    ],
+    "furtherReading": [
+      {
+        "site": "Discord",
+        "title": "Getting Global Age Assurance Right: What We Got Wrong and What's Changing",
+        "url": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing"
       }
     ]
   }
