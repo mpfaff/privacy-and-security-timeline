@@ -79,6 +79,31 @@
     ]
   },
   {
+    "id": "discord-adds-age-verification",
+    "title": "Discord Rolling Out Age Verification",
+    "description": "Discord adds age verification, where certain and spaces features are now restricted unless a user is verified as an adult. Age verification can be done by \"video selfies\" and Discord claims that all processing and age-estimation is done locally and never leaves a user's device.",
+    "date": "2026-02-09",
+    "sources": [
+      {
+        "site": "Discord",
+        "title": "Discord Launches Teen Default Experience Globally",
+        "url": "https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally"
+      }
+    ],
+    "furtherReading": [
+      {
+        "site": "Electronic Frontier Foundation",
+        "title": "Discord Voluntarily Pushes Mandatory Age Verification Despite Recent Data Breach",
+        "url": "https://www.eff.org/deeplinks/2026/02/discord-voluntarily-pushes-mandatory-age-verification-despite-recent-data-breach"
+      },
+      {
+        "site": "BBC",
+        "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
+        "url": "https://www.bbc.com/news/articles/cn4g8ynpwl8o"
+      }
+    ]
+  },
+  {
     "id": "critical-notepad-vulnerability",
     "title": "Critical Notepad vulnerability linked to new Markdown feature",
     "description": "The Windows 11 Notepad app, recently upgraded with AI features, now carries a high-severity flaw that exposes users to dangerous attacks. Hackers can trick Windows users into clicking a malicious link inside a Markdown file, opened by default by the Notepad app on most Windows systems. This would then cause Notepad to launch unverified protocols that load and execute remote files/code with the same permissions as the user. The vulnerability, assigned CVE-2026-20841, has a severity rating of 8.8 out of 10. While not directly caused by AI, this vulnerability highlights the risks of rapid feature expansion in established software.",
@@ -88,6 +113,39 @@
         "site": "Cybernews",
         "title": "Critical Notepad vulnerability reignites criticism of Microsoft’s forced AI features",
         "url": "https://cybernews.com/security/windows-notepad-vulnerable-to-remote-attacks-feature-creep-blamed/"
+      }
+    ]
+  },
+  {
+    "id": "discord-persona-test",
+    "title": "Discord Collaboreating with Persona",
+    "description": "Discord reveals that they lied about age-verification processing information never leaving a user's device and revealed that they are supplying data to an age-verification service-provider named Persona. They quickly retracted the warning shortly after releasing it on their website.",
+    "date": "2026-02-15",
+    "sources": [
+      {
+        "site": "Ars Technica",
+        "title": "Fury over Discord’s age checks explodes after shady Persona test in UK",
+        "url": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/"
+      }
+    ]
+  },
+  {
+    "id": "discord-cut-ties-with-persona",
+    "title": "Discord Cuts Ties with Persona",
+    "description": "Persona is found to have front-end code accessible on the internet and on government servers. Around 2500 files were found to have been accessible for the governments, and apparently, persona performed facial recognition checks against watchlists and lists of people of power. Discord has since announced that it is cutting ties with Persona.",
+    "date": "2026-02-24",
+    "sources": [
+      {
+        "site": "Fortune",
+        "title": "Discord cuts ties with Peter Thiel–backed verification software after its code was found tied to U.S. surveillance efforts",
+        "url": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/"
+      }
+    ],
+    "furtherReading": [
+      {
+        "site": "Discord",
+        "title": "Getting Global Age Assurance Right: What We Got Wrong and What's Changing",
+        "url": "https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing"
       }
     ]
   }
