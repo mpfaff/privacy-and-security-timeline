@@ -79,6 +79,24 @@
     ]
   },
   {
+    "id": "discord-age-verification",
+    "title": "Discord Adds Age Verification",
+    "description": "Discord has announced that they plan to add global age verification to the platform. Discord will attempt to verify users' ages using AI, but will prompt some users to upload a video selfie or government ID. Those who do not verify their age will be restricted to a 'Teen Default Experience' losing access to some features. As of 2026/02/24, Discord has postponed the rollout following user backlash, announced they would no longer be working with Peter Thiel-backed age-verification vendor Persona.",
+    "date": "2026-02-09",
+    "sources": [
+      {
+        "site": "Discord",
+        "title": "Discord Launches Teen Default Experience Globally",
+        "url": "https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally/"
+      },
+      {
+        "site": "MediaPost",
+        "title": "Discord Ditches Age-Verification Partner Following User Backlash",
+        "url": "https://www.mediapost.com/publications/article/413004/discord-ditches-age-verification-partner-following.html/"
+      }
+    ]
+  },
+  {
     "id": "critical-notepad-vulnerability",
     "title": "Critical Notepad vulnerability linked to new Markdown feature",
     "description": "The Windows 11 Notepad app, recently upgraded with AI features, now carries a high-severity flaw that exposes users to dangerous attacks. Hackers can trick Windows users into clicking a malicious link inside a Markdown file, opened by default by the Notepad app on most Windows systems. This would then cause Notepad to launch unverified protocols that load and execute remote files/code with the same permissions as the user. The vulnerability, assigned CVE-2026-20841, has a severity rating of 8.8 out of 10. While not directly caused by AI, this vulnerability highlights the risks of rapid feature expansion in established software.",
@@ -88,6 +106,19 @@
         "site": "Cybernews",
         "title": "Critical Notepad vulnerability reignites criticism of Microsoft’s forced AI features",
         "url": "https://cybernews.com/security/windows-notepad-vulnerable-to-remote-attacks-feature-creep-blamed/"
+      }
+    ]
+  },
+    {
+    "id": "instagram-e2ee-messages",
+    "title": "Instagram Ending Support for End-To-End Encrypted Direct Messages",
+    "description": "Meta has updated Instagram's help pages, stating that E2EE DMs will no longer be supported as of May 8th, 2026. E2EE ensures that messages cannot be meaningfully intercepted by third parties, including Meta, serving as a key mechanism of user privacy. Meta also maintains Messenger and WhatsApp, potentially foreshadowing incoming changes to these platforms as well.",
+    "date": "2026-03-13",
+    "sources": [
+      {
+        "site": "Proton",
+        "title": "Instagram quietly drops end-to-end encrypted chats",
+        "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
       }
     ]
   }
