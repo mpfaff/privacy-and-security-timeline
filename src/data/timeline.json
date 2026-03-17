@@ -98,6 +98,26 @@
     "date": "2026-03-13",
     "sources": [
       {
+        "site": "X",
+        "title": "Post by @stupidtechtakes on X",
+        "url": "https://x.com/stupidtechtakes/status/2032273374370807911"
+      },
+      {
+        "site": "MediaNama",
+        "title": "Meta To Remove End-to-End Encryption on Instagram DMs From May 8",
+        "url": "https://www.medianama.com/2026/03/223-meta-ending-instagram-dm-e2ee/"
+      },
+      {
+        "site": "Instagram Help Center",
+        "title": "What is end-to-end encryption on Instagram",
+        "url": "https://help.instagram.com/491565145294150"
+      },
+      {
+        "site": "9to5Google",
+        "title": "Meta is killing end-to-end encryption for Instagram DMs soon",
+        "url": "https://9to5google.com/2026/03/13/meta-is-killing-end-to-end-encryption-for-instagram-dms-soon/"
+      },
+      {
         "site": "Proton",
         "title": "Instagram quietly drops end-to-end encrypted chats",
         "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
