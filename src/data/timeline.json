@@ -119,7 +119,7 @@
   {
     "id": "discord-persona-test",
     "title": "Discord Collaboreating with Persona",
-    "description": "Discord reveals that they lied about age-verification processing information never leaving a user's device and revealed that they are supplying data to an age-verification service-provider named Persona. They quickly retracted the warning shortly after releasing it on their website.",
+    "description": "Discord reveals that they lied about age-verification processing information never leaving a user's device and are actually using a server-side age-verification service-provider named Persona for a subset of users in the UK. They quickly retracted the warning shortly after releasing it on their website.",
     "date": "2026-02-15",
     "sources": [
       {
