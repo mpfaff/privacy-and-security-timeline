@@ -132,7 +132,7 @@
   {
     "id": "discord-cut-ties-with-persona",
     "title": "Discord Cuts Ties with Persona",
-    "description": "Persona is found to have front-end code accessible on the internet and on government servers. Around 2500 files were found to have been accessible for the governments, and apparently, persona performed facial recognition checks against watchlists and lists of people of power. Discord has since announced that it is cutting ties with Persona.",
+    "description": "Persona is found to have front-end code accessible on the internet and on government servers. Around 2500 files were found to have been accessible for the governments, and apparently, Persona performed facial recognition checks against watchlists and lists of people of power. Discord has since announced that it is cutting ties with Persona.",
     "date": "2026-02-24",
     "sources": [
       {
