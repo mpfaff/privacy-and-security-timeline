@@ -90,5 +90,38 @@
         "url": "https://cybernews.com/security/windows-notepad-vulnerable-to-remote-attacks-feature-creep-blamed/"
       }
     ]
+  },
+    {
+    "id": "instagram-e2ee-messages",
+    "title": "Instagram Ending Support for End-To-End Encrypted Direct Messages",
+    "description": "Meta has updated Instagram's help pages, stating that E2EE DMs will no longer be supported as of May 8th, 2026. E2EE ensures that messages cannot be meaningfully intercepted by third parties, including Meta, serving as a key mechanism of user privacy. Meta also maintains Messenger and WhatsApp, potentially foreshadowing incoming changes to these platforms as well.",
+    "date": "2026-03-13",
+    "sources": [
+      {
+        "site": "X",
+        "title": "Post by @stupidtechtakes on X",
+        "url": "https://x.com/stupidtechtakes/status/2032273374370807911"
+      },
+      {
+        "site": "MediaNama",
+        "title": "Meta To Remove End-to-End Encryption on Instagram DMs From May 8",
+        "url": "https://www.medianama.com/2026/03/223-meta-ending-instagram-dm-e2ee/"
+      },
+      {
+        "site": "Instagram Help Center",
+        "title": "What is end-to-end encryption on Instagram",
+        "url": "https://help.instagram.com/491565145294150"
+      },
+      {
+        "site": "9to5Google",
+        "title": "Meta is killing end-to-end encryption for Instagram DMs soon",
+        "url": "https://9to5google.com/2026/03/13/meta-is-killing-end-to-end-encryption-for-instagram-dms-soon/"
+      },
+      {
+        "site": "Proton",
+        "title": "Instagram quietly drops end-to-end encrypted chats",
+        "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
+      }
+    ]
   }
 ]
