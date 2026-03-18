@@ -92,27 +92,27 @@
     ]
   },
   {
-    "id":"grapheneos-motorola-partnership",
-    "title":"Security focused mobile OS Graphene announces new hardware partnership",
-    "description":"GrapheneOS, a privacy and security focused mobile OS based on Android, revealed a new hardware partnership with Motorola. Current versions of the OS only work on Google phones, as those are the only devices to meet their hardware security standards. This partnership promises compatibility with new, security focused Motorola phone models allowing more hardware options for security conscious users.",
-    "date":"2026-03-02",
+    "id": "grapheneos-motorola-partnership",
+    "title": "Security focused mobile OS Graphene announces new hardware partnership",
+    "description": "GrapheneOS, a privacy and security focused mobile OS based on Android, revealed a new hardware partnership with Motorola. Current versions of the OS only work on Google phones, as those are the only devices to meet their hardware security standards. This partnership promises compatibility with new, security focused Motorola phone models allowing more hardware options for security conscious users.",
+    "date": "2026-03-02",
     "sources": [
       {
-        "site":"GrapheneOS Forum",
-        "title":"Motorola partnership announcement",
-        "url":"https://discuss.grapheneos.org/d/32656-motorola-partnership-announcement"
+        "site": "GrapheneOS Discussion Forum",
+        "title": "Motorola partnership announcement",
+        "url": "https://discuss.grapheneos.org/d/32656-motorola-partnership-announcement"
       },
       {
-        "site":"Motorola News",
-        "title":"Motorola announces a partnership with GrapheneOS Foundation...",
-        "url":"https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"
+        "site": "Motorola News",
+        "title": "Motorola announces a partnership with GrapheneOS Foundation...",
+        "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"
       }
     ],
-    "furtherReading":[
+    "furtherReading": [
       {
-        "site":"GrapheneOS",
-        "title":"More info about the OS",
-        "url":"https://grapheneos.org/#about"
+        "site": "GrapheneOS",
+        "title": "GrapheneOS: the private and secure mobile OS",
+        "url": "https://grapheneos.org/#about"
       }
     ]
   }
