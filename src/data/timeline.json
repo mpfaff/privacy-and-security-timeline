@@ -65,5 +65,31 @@
         "url": "https://www.hipaajournal.com/6-9-million-23andme-users-affected-by-data-breach/"
       }
     ]
-  }
+  },
+  {
+  "id": "MOVEit-Data-Breach",
+  "title": "The MOVEit zero-day vulnerability, exploited by Russian ransomware group Cl0p, becomes the largest cyberattack of 2023, affecting over 2,700 organizations and 93 million individuals worldwide",
+  "description": "A critical SQL injection flaw in Progress Software's MOVEit file transfer tool was silently exploited starting May 27, 2023, by the Cl0p ransomware gang. The cascading supply-chain attack hit government agencies, universities, airlines, and major corporations — exposing sensitive personal data and raising urgent questions about third-party software risk, patch management, and organizational accountability.",
+  "date": "2023-05-31",
+  "sources": [
+    {
+      "site": "O.R.X.",
+      "title": "MOVEit transfer data breaches Deep Dive",
+      "url": "https://orx.org/resource/moveit-transfer-data-breaches-orx-news-deep-dive"
+    }
+  ]
+},
+{
+  "id": "National-Public-Data-Breach",
+  "title": "National Public Data, a background check broker, confirms a breach of 2.9 billion records containing Social Security numbers and personal data of hundreds of millions of people",
+  "description": "A hacker group gained access to National Public Data's systems in December 2023 and began selling 2.9 billion records — including names, Social Security numbers, addresses, and dates of birth — on the dark web for $3.5 million. The company, which collected data without individuals' consent, delayed public acknowledgment until August 2024 and subsequently filed for bankruptcy, spotlighting deep concerns about the unregulated data broker industry and the lack of consent in mass personal data collection.",
+  "date": "2024-08-16",
+  "sources": [
+    {
+      "site": "IBM",
+      "title": National Public Data breach publishes private data of 2.9B US citizens",
+      "url": "https://www.ibm.com/think/news/national-public-data-breach-publishes-private-data-billions-us-citizens"
+    }
+  ]
+}
 ]
