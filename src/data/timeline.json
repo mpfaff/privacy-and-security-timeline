@@ -206,5 +206,24 @@
         "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
       }
     ]
+  },
+  {
+    "id": "lloyd-bank-app-glitch",
+    "issue-author": "Mika0917 (#14)",
+    "title": "Lloyds banking app glitch exposes customer transaction data",
+    "description": "A glitch in Lloyds Banking Group’s mobile banking apps allowed some customers to see other users' transaction data and personal information. The incident affected Lloyds, Halifax, and Bank of Scotland customers and is an example of a privacy breach caused by a software failure rather than a hack.",
+    "date": "2026-03-12",
+    "sources": [
+      {
+        "site": "BBC",
+        "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
+        "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o"
+      },
+      {
+        "site": "Yahoo Finance",
+        "title": "Nearly half a million Lloyds customers hit by data breach after IT glitch",
+        "url": "https://uk.finance.yahoo.com/news/nearly-half-million-lloyds-customers-090606533.html"
+      }
+    ]
   }
 ]
