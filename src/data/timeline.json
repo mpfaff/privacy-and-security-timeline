@@ -206,5 +206,18 @@
         "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
       }
     ]
+  },
+  {
+    "id": "rogers-fido-breach",
+    "title": "Rogers, Fido customer info accessed in data breach",
+    "description": "Rogers and Fido have confirmed that customer information was accessed in a recent data breach due to a supply chain attack.",
+    "date": "2026-03-30",
+    "sources": [
+      {
+        "site": "MobileSyrup",
+        "title": "Rogers, Fido customer info accessed in data breach",
+        "url": "https://mobilesyrup.com/2026/03/30/rogers-fido-customer-info-accessed-data-breach/"
+      }
+    ]
   }
 ]
