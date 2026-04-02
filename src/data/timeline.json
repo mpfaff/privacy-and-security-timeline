@@ -206,5 +206,23 @@
         "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
       }
     ]
+  },
+  {
+    "id": "telecom-breaches",
+    "title": "Rogers, Fido, and Freedom Mobile customer info accessed in data breach",
+    "description": "Rogers, Fido, and Freedom Mobile have confirmed that customer information was accessed in a recent data breach, with Freedom Mobile affected specifically due to a supply chain attack.",
+    "date": "2026-03-30",
+    "sources": [
+      {
+        "site": "MobileSyrup",
+        "title": "Rogers, Fido customer info accessed in data breach",
+        "url": "https://mobilesyrup.com/2026/03/30/rogers-fido-customer-info-accessed-data-breach/"
+      },
+      {
+        "site": "The Globe and Mail",
+        "title": "Rogers and Freedom Mobile say they suffered data breaches in recent weeks",
+        "url": "https://www.theglobeandmail.com/business/article-rogers-freedom-mobile-data-breaches-telecom-quebecor/"
+      }
+    ]
   }
 ]
