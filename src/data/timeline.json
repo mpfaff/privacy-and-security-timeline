@@ -214,6 +214,11 @@
     "date": "2026-04-03",
     "sources": [
       {
+        "site": "Fairlinked e.V.",
+        "title": "LinkedIn Is Illegally Searching Your Computer",
+        "url": "https://browsergate.eu/"
+      },
+      {
         "site": "Cybernews",
         "title": "LinkedIn caught spying on users’ browsers: sensitive data harvested",
         "url": "https://cybernews.com/privacy/linkedin-surveillance-browsergate/"
