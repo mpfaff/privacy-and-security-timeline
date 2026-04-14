@@ -206,5 +206,33 @@
         "url": "https://proton.me/blog/instagram-end-to-end-encryption/"
       }
     ]
+  },
+  {
+    "id": "linkedin-scans-browser-extensions",
+    "title": "LinkedIn scanning for 6000+ Chrome extensions from user browsers for fingerprinting",
+    "description": "LinkedIn was found to be injecting a JavaScript fingerprinting script into Chromium-based browsers to identify installed extensions and device telemetry in order to potentially fingerprint and profile users.",
+    "date": "2026-04-03",
+    "sources": [
+      {
+        "site": "Fairlinked e.V.",
+        "title": "LinkedIn Is Illegally Searching Your Computer",
+        "url": "https://browsergate.eu/"
+      },
+      {
+        "site": "Cybernews",
+        "title": "LinkedIn caught spying on users’ browsers: sensitive data harvested",
+        "url": "https://cybernews.com/privacy/linkedin-surveillance-browsergate/"
+      },
+      {
+        "site": "Tom's Hardware",
+        "title": "LinkedIn is spying on you, according to a new 'BrowserGate' security report — scripts stealthily scan visitors' browsers for over 6,000 Chrome extensions and harvest hardware data",
+        "url": "https://www.tomshardware.com/software/browsers/linkedin-scans-visitors-browsers-for-over-6000-chrome-extensions-and-collects-device-data"
+      },
+      {
+        "site": "Bleeping Computer",
+        "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
+        "url": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/"
+      }
+    ]
   }
 ]
