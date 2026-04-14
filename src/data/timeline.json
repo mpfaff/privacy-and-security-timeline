@@ -208,6 +208,39 @@
     ]
   },
   {
+    "id": "lloyd-bank-app-glitch",
+    "issue-author": "Mika0917 (#14)",
+    "title": "Lloyds banking app glitch exposes customer transaction data",
+    "description": "A glitch in Lloyds Banking Group’s mobile banking apps allowed some customers to see other users' transaction data and personal information. The incident affected Lloyds, Halifax, and Bank of Scotland customers and is an example of a privacy breach caused by a software failure rather than a hack.",
+    "date": "2026-03-12",
+    "sources": [
+      {
+        "site": "BBC News",
+        "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
+        "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o"
+      },
+      {
+        "site": "Yahoo Finance",
+        "title": "Nearly half a million Lloyds customers hit by data breach after IT glitch",
+        "url": "https://uk.finance.yahoo.com/news/nearly-half-million-lloyds-customers-090606533.html"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-whatsapp-malware-warn",
+    "issue-author": "KhushpreetK (#12)",
+    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+    "description": "Microsoft has identified a sophisticated malware campaign that uses WhatsApp messages to deliver malicious Visual Basic Script (VBS) files, initiating a multi-stage infection process. Once a user executes the script, it creates hidden system folders and deploys renamed legitimate Windows tools to avoid detection, a tactic known as “living-off-the-land.” The malware then downloads additional payloads from trusted cloud platforms like AWS, Tencent Cloud, and Backblaze, eventually installing malicious MSI packages to maintain persistence. It further weakens system defenses by manipulating User Account Control (UAC) settings and modifying the Windows registry to gain elevated privileges. In some cases, legitimate remote access tools like AnyDesk are installed, allowing attackers to maintain control, exfiltrate data, or deploy additional malware, making the attack both stealthy and highly effective.",
+    "date": "2026-04-01",
+    "sources": [
+      {
+        "site": "The Hacker News",
+        "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+        "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html"
+      }
+    ]
+  },
+  {
     "id": "linkedin-scans-browser-extensions",
     "title": "LinkedIn scanning for 6000+ Chrome extensions from user browsers for fingerprinting",
     "description": "LinkedIn was found to be injecting a JavaScript fingerprinting script into Chromium-based browsers to identify installed extensions and device telemetry in order to potentially fingerprint and profile users.",
